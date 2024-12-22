@@ -1,0 +1,33 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    color: rgb(17, 16, 16);
+    font-size: xx-large;
+    text-shadow: 
+    0 0 10px red,
+    0 0 20px red,
+    0 0 40px red,
+    0 0 50px red,
+    0 0 60px red;
+}
+.table{
+   
+    height: 700px;
+    width:1500px;
+    display: flex;
+}
+.one{
+   
+    width: 50%;
+    height: 100%;
+}
+.we,.qw{
+    height: 400px;
+    width: 400px;
+}
+.qw{
+    margin-left: 200px;
+}
